@@ -1,0 +1,31 @@
+<section id="produtos" style="padding: 60px 20px; background-color: #f8f8f8;">
+  <h2 style="text-align: center; color: #394831; font-family: Georgia, serif; font-size: 2em;">Catálogo de Velas</h2>
+
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin-top: 40px;">
+    
+    <!-- Produto 1 -->
+    <div style="background-color: white; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); width: 280px; padding: 20px; text-align: center;">
+      <img src="vela-relaxante.jpg" alt="Vela Relaxante" style="width: 100%; border-radius: 8px;" />
+      <h3 style="color: #a66f51; margin: 15px 0 5px;">Vela Relaxante</h3>
+      <p style="color: #848484; font-size: 0.95em;">Aroma de lavanda com toque de camomila</p>
+      <button style="background-color: #be8f59; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer;">Comprar</button>
+    </div>
+
+    <!-- Produto 2 -->
+    <div style="background-color: white; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); width: 280px; padding: 20px; text-align: center;">
+      <img src="vela-inspiradora.jpg" alt="Vela Inspiradora" style="width: 100%; border-radius: 8px;" />
+      <h3 style="color: #a66f51; margin: 15px 0 5px;">Vela Inspiradora</h3>
+      <p style="color: #848484; font-size: 0.95em;">Notas cítricas e fundo amadeirado</p>
+      <button style="background-color: #be8f59; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer;">Comprar</button>
+    </div>
+
+    <!-- Produto 3 -->
+    <div style="background-color: white; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); width: 280px; padding: 20px; text-align: center;">
+      <img src="vela-premium.jpg" alt="Vela Premium" style="width: 100%; border-radius: 8px;" />
+      <h3 style="color: #a66f51; margin: 15px 0 5px;">Vela Premium</h3>
+      <p style="color: #848484; font-size: 0.95em;">Edição limitada com essência floral exclusiva</p>
+      <button style="background-color: #be8f59; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer;">Comprar</button>
+    </div>
+
+  </div>
+</section
