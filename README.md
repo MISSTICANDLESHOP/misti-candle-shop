@@ -1,0 +1,1 @@
+aprecie sem moderação
